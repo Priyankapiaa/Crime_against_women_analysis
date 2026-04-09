@@ -13,6 +13,11 @@ What policy interventions are needed?
 - SQL Server (SSMS) — Data querying & aggregation
 - Power BI — Interactive dashboard
 
+## Dashboard Preview
+
+### **Page 1 **
+![Dashboard Page 1](images/page1.png)
+
 ## Key Findings
 - Domestic Violence accounts for 39% of all crimes
 - UP, Andhra Pradesh, WB and MP are most affected states
